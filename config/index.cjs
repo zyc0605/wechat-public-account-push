@@ -29,10 +29,10 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: '崽崽', year: '2000', date: '10-27',
+          type: '生日', name: '崽崽', year: '2000', date: '10-27'
         },
         {
-          type: '节日', name: '相识纪念日', year: '2023', date: '04-09',
+          type: '节日', name: '相识纪念日', year: '2023', date: '04-09'
         }
       ],
       // 我们在一起已经有xxxx天了的配置
